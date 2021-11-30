@@ -1,0 +1,29 @@
+{
+  "name": "dsiviet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ledangtai/dsiviet.git"
+  },
+  "keywords": [
+    "dsiviet"
+  ],
+  "author": "sondn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ledangtai/dsiviet/issues"
+  },
+  "homepage": "https://github.com/ledangtai/dsiviet#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-and-time": "^1.0.1",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.12"
+  }
+}
